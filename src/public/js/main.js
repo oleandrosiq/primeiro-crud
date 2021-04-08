@@ -1,1 +1,1 @@
-alert("Bora leandrinho");
+console.log("Bora leandrinho");
